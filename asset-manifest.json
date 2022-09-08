@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/letalk-frontend/static/js/main.35334cac.js",
-    "index.html": "/letalk-frontend/index.html",
-    "main.35334cac.js.map": "/letalk-frontend/static/js/main.35334cac.js.map"
+    "main.js": "/letalk-front/static/js/main.0213ed86.js",
+    "index.html": "/letalk-front/index.html",
+    "main.0213ed86.js.map": "/letalk-front/static/js/main.0213ed86.js.map"
   },
   "entrypoints": [
-    "static/js/main.35334cac.js"
+    "static/js/main.0213ed86.js"
   ]
 }
